@@ -1,68 +1,206 @@
-.nav-li{
+.nav-li {
     text-align: center;
     font-size: 20px;
     line-height: 28px;
 }
-.beso{
+
+.beso {
     font-size: 30px;
 }
-.tab{
+
+.tab {
     font-size: 27px;
-    color:rgb(210, 30, 30);
+    color: rgb(210, 30, 30);
 }
-.divs{
+
+.divs {
     margin-top: 150px;
 }
-.body-f-page{
+
+.body-f-page {
     background-color: #C0C0C0;
 }
-.body-s-page{
+
+.body-s-page {
     background-color: #A39B98;
 }
-.gau{
+
+.gau {
     font-weight: bolder;
     margin-bottom: 30px;
 }
-.addr{
+
+.addr {
     color: darkgreen;
     text-decoration-line: underline;
     font-size: 24px;
-    margin-bottom:19px; 
+    margin-bottom: 19px;
 }
-.year{
+
+.year {
     font-weight: bolder;
 }
-.pres{
+
+.pres {
     font-weight: bolder;
 }
-.divsec{
+
+.divsec {
     margin-top: 100px;
 }
-h2 span{
+
+h2 span {
     font-size: 41px;
     font-weight: bolder;
 }
-h2{
-    margin:40px 0 0 40px;
+
+h2 {
+    margin: 40px 0 0 40px;
     font-size: 22px;
 }
-.body-t-page{
+
+.body-t-page {
     background-image: url(https://miro.medium.com/max/1947/1*Rbgqq4HqozyfYyD3tOeeJw.jpeg);
     background-size: cover;
     background-attachment: fixed;
+    padding: 50px;
 }
-.divthird p{
+
+.divthird p {
     font-size: 22px;
     font-weight: bolder;
-    margin:40px 0 0 40px;
+    margin: 40px 0 0 40px;
 }
-.lis{
+
+.lis {
     color: darkgreen;
     font-size: 22px;
     margin-left: 62px;
     line-height: 30px;
     list-style-type: disc;
 }
-.me-ul{
+
+.me-ul {
     margin-top: 20px;
+}
+
+.bloki {
+    text-align: center;
+    font-size: 25px;
+    margin-top: 20px;
+}
+
+.blokiskveda {
+    margin: 40px 0 0 40px;
+    font-size: 20px;
+    text-align: left;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 100;
+    line-height: 30px;
+}
+
+.liss {
+    font-size: 18px;
+    margin-left: 62px;
+    line-height: 30px;
+    list-style-type: disc;
+}
+
+.bolodiv h1 {
+    margin: 40px 0 0 40px;
+    font-size: 37px;
+    font-weight: bolder;
+}
+
+.bolodiv p {
+    margin: 40px 0 0 40px;
+    font-size: 19px;
+    text-align: left;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 30px;
+}
+
+.bolodiv span {
+    font-weight: bolder;
+    font-size: 30px;
+}
+
+.kart {
+    text-align: center;
+    font-size: 25px;
+    margin-top: 20px;
+}
+
+.liss:hover {
+    color: red;
+}
+
+.lis:hover {
+    color: blue;
+}
+
+.body-for-page {
+    background-image: url(https://image.freepik.com/free-photo/blue-sky-with-clouds_1112-454.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    padding: 50px;
+}
+
+.navgeo h1 {
+    margin: 40px 0 0 40px;
+    color: seagreen;
+    font-size: 40px;
+    font-weight: bolder;
+}
+
+.navgeo li {
+    margin: 40px 0 0 40px;
+    font-size: 20px;
+    line-height: 2px;
+}
+
+.navgeo li:hover {
+    color: yellow;
+}
+
+.body-for-page h2 {
+    text-align: center;
+    font-size: 30px;
+    font-weight: bolder;
+}
+
+.body-for-page p {
+    text-align: left;
+    font-size: 17px;
+    margin: 40px 0 0 40px;
+
+}
+
+.body-fif-page {
+    background-color: khaki;
+}
+
+.container {
+    max-width: 900px;
+    width: 100%;
+    margin: 0 auto;
+    background-color: white;
+    height: 650px;
+}
+
+.navlast h1 {
+    text-align: center;
+    font-size: 35px;
+    font-weight: bolder;
+    padding-top: 50px;
+}
+
+.navlast li {
+    margin: 40px 0 0 40px;
+    font-size: 20px;
+    list-style-type: disc;
+}
+
+.navlast li:hover {
+    color: rebeccapurple;
 }
